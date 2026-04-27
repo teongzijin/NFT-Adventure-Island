@@ -1,10 +1,10 @@
-A live implementation of the ERC-721 standard, successfully deployed and operational on the Ethereum Mainnet since 2022.
+# A live implementation of the ERC-721 standard, successfully deployed and operational on the Ethereum Mainnet since 2022.
 
 Contract Address: 0x71db718f4a3fbbdd9f7a35ae3d1be972f7d3faa9
 
 Standards: Fully compliant with ERC-721
 
-Key Features:
+# Key Features:
 
 Public Minting Control: Dynamic toggle for minting states (isMintEnabled)
 
